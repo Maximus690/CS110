@@ -1,0 +1,30 @@
+simple_codex = {
+ 'a': 'd',
+ 'b': 'e',
+ 'c': 'z',
+ 'd': 'h',
+ 'e': 'g',
+ 'f': 's',
+ 'g': 'n',
+ 'h': 'r',
+ 'i': 'a',
+ 'j': 'b',
+ 'k': 'k',
+ 'l': 'j',
+ 'm': 'c',
+ 'n': 'u',
+ 'o': 'y',
+ 'p': 't',
+ 'q': 'q',
+ 'r': 'x',
+ 's': 'w',
+ 't': 'v',
+ 'u': 'p',
+ 'v': 'f',
+ 'w': 'i',
+ 'x': 'l',
+ 'y': 'm',
+ 'z': 'o'
+}
+
+# Fill in something useful here
